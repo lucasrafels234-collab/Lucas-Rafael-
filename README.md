@@ -3,7 +3,6 @@
 
  Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
  Atualmente estudando Python e lógica de programação  
- Jovem Aprendiz na área financeira da Royal Tulip  
  Buscando evoluir na área de tecnologia e desenvolvimento
 
  Tecnologias em aprendizado
